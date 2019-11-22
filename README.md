@@ -4,11 +4,13 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
-Iris Setosa
-<img width="200" alt="portfolio_view" src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg">
+<div>
+Iris Setosa 
+<img width="200" alt="Iris Setosa" src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg">
+</div>
 
 Iris Versicolor
-<img width="200" alt="portfolio_view" src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg">
+<img width="200" alt="Iris Versicolor" src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg">
 
 Iris Virginica
-<img width="200" alt="portfolio_view" src="http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg">
+<img width="200" alt="Iris Virginica" src="http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg">
