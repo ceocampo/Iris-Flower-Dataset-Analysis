@@ -9,9 +9,12 @@ Iris Setosa
 </div>
 <img width="200" alt="Iris Setosa" src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg">
 
-
+<div>
 Iris Versicolor
+</div>
 <img width="200" alt="Iris Versicolor" src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg">
 
+<div>
 Iris Virginica
+</div>
 <img width="200" alt="Iris Virginica" src="http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg">
