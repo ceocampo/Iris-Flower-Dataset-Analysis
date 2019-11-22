@@ -6,8 +6,9 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 <div>
 Iris Setosa 
-<img width="200" alt="Iris Setosa" src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg">
 </div>
+<img width="200" alt="Iris Setosa" src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg">
+
 
 Iris Versicolor
 <img width="200" alt="Iris Versicolor" src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg">
