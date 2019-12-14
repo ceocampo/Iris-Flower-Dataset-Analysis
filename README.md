@@ -6,6 +6,8 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 These features were analyzed and used in building a support vector machine (SVM) model to predict the iris flower species (shown below).
 
+The dataset can be found in "IRIS.csv" and the project can be found in the .ipynb noteobok file.
+
 <div>
 Iris Setosa 
 </div>
